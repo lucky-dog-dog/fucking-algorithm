@@ -14,14 +14,6 @@ English version repo and Gitbook is on [english branch](https://github.com/labul
 <a href="https://space.bilibili.com/14089380" target="_blank"><img src="https://img.shields.io/badge/B站-@labuladong-000000.svg?style=flat-square&logo=Bilibili"></a>
 </p>
 
-![](pictures/souyisou.png)
-
-好消息，《labuladong 的算法小抄》纸质书出版啦！关注公众号查看详情👆
-
-<p align='center'>
-<img src="https://gitee.com/labuladong/pictures/raw/master/starHistory.png" width = "600" />
-</p>
-
 
 本仓库总共 60 多篇原创文章，都是基于 LeetCode 的题目，涵盖了所有题型和技巧，而且一定要做到**举一反三，通俗易懂**，绝不是简单的代码堆砌，后面有目录。
 
@@ -35,17 +27,8 @@ English version repo and Gitbook is on [english branch](https://github.com/labul
 
 **做啥事情做多了，都能发现套路的，我把各种算法套路框架总结出来，相信可以帮助其他人少走弯路**。我这个纯靠自学的小童鞋，花了一年时间刷题和总结，自己写了一份算法小抄，后面有目录，这里就不废话了。
 
-### 使用方法
 
-**1、先给本仓库点个 star，满足一下我的虚荣心**，文章质量绝对值你一个 star。我还在继续创作，给我一点继续写文的动力，感谢。
-
-**2、建议关注我的公众号 labuladong，坚持高质量原创，说是最良心最硬核的技术公众号都不为过**。本仓库的文章就是从公众号里整理出来的**一部分**内容，公众号可以查看更多内容；公众号后台回复关键词【加群】可以加入刷题群，回复 LeetCode 题号可以搜索对应的题解，后台菜单有针对不同人群的刷题计划：
-
-<p align='center'>
-<img src="https://gitee.com/labuladong/upic/raw/master/2021_05_23/20_56_24.jpg" width = "200" />
-</p>
-
-**3、建议收藏我的在线网站，每篇文章开头都有对应的力扣题目链接，可以边看文章边刷题**：
+**建议收藏我的在线网站，每篇文章开头都有对应的力扣题目链接，可以边看文章边刷题**：
 
 Gitbook 地址：https://labuladong.gitbook.io/algo/
 
@@ -56,7 +39,7 @@ Gitee Pages 地址：https://labuladong.gitee.io/algo/ （推荐）
 GitHub Pages 地址：https://labuladong.github.io/algo/
 
 
-**4、欢迎关注 [我的知乎](https://www.zhihu.com/people/labuladong)**。
+**欢迎关注 [我的知乎](https://www.zhihu.com/people/labuladong)**。
 
 我一直在写优质文章，但是后续的文章只发布到公众号/网站/知乎，不能开放到 GitHub。因为本仓库太火了，很多人直接拿我的文章去开付费专栏，价格还不便宜，我这免费写给您看，何必掏冤枉钱呢？所以多多关注本作者，多多宣传，谁也不希望劣币驱逐良币不是么？
 
